@@ -19,5 +19,8 @@ experience in optimizing code structure and improving code readability.
 - Employed the use of a .gitignore file to exclude specific files from being tracked and displayed in the git repository.
 
 
-
-### [Link to Javascript Code](code/)
+## To access the code for the project, follow these steps:
+- Scroll to the top of the page and locate the "View on GitHub" button.
+- Click on the button to navigate to the project's GitHub repository.
+- Inside the repository, locate and click on the "Code" folder.
+- Within the "Code" folder, you will find the project's source code and related files.
